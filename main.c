@@ -1,3 +1,11 @@
 #include <stdio.h>
 
-# My first letters
+int main()
+{
+	int i;
+	for ()
+	{
+		puts("Hello world :)\n");
+	}
+	return 0;
+}
